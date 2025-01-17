@@ -8,3 +8,4 @@ After forking this repository, you can make some changes to the project, and sub
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 Mise à jour du 16 janvier 2025 ✅
+Mise à jour du 17 janvier 2025 ✅
